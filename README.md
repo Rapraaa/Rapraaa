@@ -2,9 +2,9 @@
 
 # Hey, soy Rapra 👋
 
-**Backend & Frontend Developer · Estudiante · Building real things**
+**Backend focused · 1 year building · Learning in public**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Python+%26+Django+developer;React+%2B+TypeScript+learner;Hackathon+winner+%F0%9F%8F%86;Learning+in+public)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Python+%26+Django+developer;Hackathon+winner+%F0%9F%8F%86;1+year+in+%C2%B7+still+going;Learning+in+public)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,11 +30,13 @@
 
 ## 🏆 Highlight
 
-### Sueltitos — 1st place · Interact2Hack2026 · USFQ
+### [Sueltitos](https://github.com/Rapraaa/Sueltitos_I2H) — 1st place · Interact2Hack2026 · USFQ
 
 > Sistema de fidelización para microcomercios integrado con **Deuna**.
 > Los clientes hacen crecer una planta nacional cada vez que vuelven a su tienda favorita.
 > Los negocios envían mensajes de agradecimiento y generan un **Wrapped** con sus clientes más fieles.
+
+**Stack:** FastAPI · Jinja2 · Tailwind CSS · Vanilla JS · Deploy en Railway · SSR puro
 
 ---
 
@@ -52,7 +54,7 @@
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rapraaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapraaa&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapraaa&layout=compact&theme=tokyonight&hide_border=true&hide=html" />
 
 </div>
 
@@ -66,6 +68,6 @@
 
 <div align="center">
 
-📫 **rahiruilova33@gmail.com**
+📫 [rahiruilova33@gmail.com](mailto:rahiruilova33@gmail.com)
 
 </div>
