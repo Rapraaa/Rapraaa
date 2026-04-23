@@ -43,6 +43,7 @@
 - ⚛️ React — hooks, patrones, arquitectura de componentes
 - 🟦 TypeScript — tipos que realmente protegen tu código
 - 🎨 Tailwind CSS — utilidades que escalan
+- 🦀 Rust — memoria, ownership y sistemas de bajo nivel
 
 ---
 
